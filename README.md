@@ -3,7 +3,9 @@ Hellen Keller
 
 Integrantes: 
 Miguel Angel Bravo Malavasi - Designer y Developer
+
 Katherine Paola Calderon Quesada - Designer y Developer
+
 Pablo Andres Chinchilla Moya - Designer y Developer
 
 Descripcion del proyecto y alcance: El Centro Nacional de Educación Hellen Keller requiere el desarrollo de un sistemav informático para la gestión académica y administrativa, con el objetivo de centralizar y optimizar los procesos educativos especializados que ofrece la institución. Este sistema contará con diversos tipos de usuarios, cada uno con distintos niveles de acceso y funcionalidades dentro de la plataforma. Se creará un wireframe que ilustre la visión del prototipo a trabajar en la etapa de desarrollo.
